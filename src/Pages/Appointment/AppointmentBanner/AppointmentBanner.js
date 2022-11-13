@@ -5,7 +5,7 @@ import BgImage from "../../../assets/images/bg.png";
 const AppointmentBanner = ({ selectedDate, setSelectedDate }) => {
   return (
     <header
-      className="md:mt-60 md:mb-20"
+      className="md:mt-52 md:mb-20"
       style={{ backgroundImage: `url(${BgImage})` }}
     >
       <div className="hero">
